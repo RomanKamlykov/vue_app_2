@@ -1,7 +1,8 @@
 <template>
   <div class="form">
-    <form @submit.prevent="submitMethod">
-      <textarea class="form__textarea" name="" id="" cols="" rows=""></textarea>
+    <form @submit.prevent="submitMethod" @keyup.ctrl.enter="submitMethod">
+      <textarea class="form__textarea" name="" id="" cols="" rows="" v-model="text">
+      </textarea>
       <div class="form__button">
         <input type="submit" value="Написать консультанту">
       </div>
@@ -12,11 +13,16 @@
 <script>
   export default {
     name: 'Form',
+    data: function () {
+      return {
+        text: ''
+      }
+    },
     methods: {
-      submitMethod: function(e) {
-        if (e.target[0].value) {
-          this.$emit('form-submit', Date.now(), e.target[0].value)
-          e.target[0].value = '';
+      submitMethod: function() {
+        if (this.text) {
+          this.$emit('form-submit', Date.now(), this.text)
+          this.text = '';
         }
       }
     }
