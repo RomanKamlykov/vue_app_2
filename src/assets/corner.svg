@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14"
+   height="14"
+   viewBox="0 0 3.7041666 3.7041668"
+   version="1.1"
+   id="svg114"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="corner.svg">
+  <defs
+     id="defs108">
+    <filter
+       color-interpolation-filters="sRGB"
+       filterUnits="userSpaceOnUse"
+       height="96"
+       width="470"
+       y="0"
+       x="0"
+       id="filter0_d">
+      <feFlood
+         id="feFlood123"
+         result="BackgroundImageFix"
+         flood-opacity="0" />
+      <feColorMatrix
+         id="feColorMatrix125"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         type="matrix"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset127"
+         dy="4" />
+      <feGaussianBlur
+         id="feGaussianBlur129"
+         stdDeviation="5" />
+      <feColorMatrix
+         id="feColorMatrix131"
+         values="0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0.1 0"
+         type="matrix" />
+      <feBlend
+         id="feBlend133"
+         result="effect1_dropShadow"
+         in2="BackgroundImageFix"
+         mode="normal" />
+      <feBlend
+         id="feBlend135"
+         result="shape"
+         in2="effect1_dropShadow"
+         in="SourceGraphic"
+         mode="normal" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath161">
+      <rect
+         id="rect163"
+         width="14.268404"
+         height="14.015865"
+         x="29.880524"
+         y="3.7210803"
+         style="stroke-width:0.99999994" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="44.8"
+     inkscape:cx="6.2326687"
+     inkscape:cy="1.5584254"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata111">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.29582)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <g
+       style="fill:none"
+       id="g157"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.9058887,-0.95532518)"
+       clip-path="url(#clipPath161)">
+      <g
+         id="g121"
+         style="filter:url(#filter0_d)">
+        <path
+           id="path117"
+           d="m 37,110.35714 c 9.5,0 418,0 418,0 v 67 H 4.9999999 v -67 H 28 v -9 z"
+           inkscape:connector-curvature="0"
+           style="fill:#f2fbff" />
+        <path
+           id="path119"
+           d="M 41.6464,15.3536 41.7929,15.5 H 42 h 212.562 141.461 46.406 12.981 3.418 0.672 v 66 h -449 v -66 H 33 33.5 V 15 7.20711 Z"
+           inkscape:connector-curvature="0"
+           style="stroke:#c4cbcf;stroke-width:0.50000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:miter;fill:#f2fbff;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
